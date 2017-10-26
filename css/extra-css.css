@@ -1,0 +1,8 @@
+.announcement {
+  width: 350px;
+  height: 180px;
+  overflow: hidden;
+}
+.announcement img {
+  width: 100%;
+}
